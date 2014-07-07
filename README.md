@@ -1,7 +1,6 @@
 D3-County-Map
 =============
 
-
 ## Install
 
 Since this is simply a static html page I'm just using `http-server` to display the page:
@@ -28,4 +27,4 @@ Launch the server
 http-server -p 8008
 ````
 
-Navigate your browser to: http://localhost:8008
+Navigate your browser to: [http://localhost:8008](http://localhost:8008)
