@@ -1,6 +1,10 @@
 D3-County-Map
 =============
 
+
+![County Population Map](https://i.cloudup.com/EyCQxPRL_k-3000x3000.png "County Population Map")
+
+
 ## Install
 
 Since this is simply a static html page I'm just using `http-server` to display the page:
